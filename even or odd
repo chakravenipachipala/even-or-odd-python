@@ -1,0 +1,6 @@
+#Write a program to print given number is even or odd
+a = int(input("enter an integer:"))
+if a%2==0:
+    print('given no is even no')
+else:
+    print('given no is odd no')
